@@ -1,0 +1,4 @@
+public class entity {
+  private integer gid;
+  private String gname;
+}
